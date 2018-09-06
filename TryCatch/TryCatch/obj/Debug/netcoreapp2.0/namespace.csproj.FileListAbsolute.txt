@@ -1,0 +1,11 @@
+C:\Users\МомбековА\source\repos\namespace\namespace\bin\Debug\netcoreapp2.0\namespace.deps.json
+C:\Users\МомбековА\source\repos\namespace\namespace\bin\Debug\netcoreapp2.0\namespace.runtimeconfig.json
+C:\Users\МомбековА\source\repos\namespace\namespace\bin\Debug\netcoreapp2.0\namespace.runtimeconfig.dev.json
+C:\Users\МомбековА\source\repos\namespace\namespace\bin\Debug\netcoreapp2.0\namespace.dll
+C:\Users\МомбековА\source\repos\namespace\namespace\bin\Debug\netcoreapp2.0\namespace.pdb
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.csprojAssemblyReference.cache
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.csproj.CoreCompileInputs.cache
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.AssemblyInfoInputs.cache
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.AssemblyInfo.cs
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.dll
+C:\Users\МомбековА\source\repos\namespace\namespace\obj\Debug\netcoreapp2.0\namespace.pdb
