@@ -1,0 +1,5 @@
+c:\Users\Lenovo\source\repos\homework\Bankomat\bin\Debug\Bankomat.dll
+c:\Users\Lenovo\source\repos\homework\Bankomat\bin\Debug\Bankomat.pdb
+c:\Users\Lenovo\source\repos\homework\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+c:\Users\Lenovo\source\repos\homework\Bankomat\obj\Debug\Bankomat.dll
+c:\Users\Lenovo\source\repos\homework\Bankomat\obj\Debug\Bankomat.pdb

@@ -1,0 +1,10 @@
+c:\users\lenovo\source\repos\homework\homework\bin\Debug\homework.exe.config
+c:\users\lenovo\source\repos\homework\homework\bin\Debug\homework.exe
+c:\users\lenovo\source\repos\homework\homework\bin\Debug\homework.pdb
+c:\users\lenovo\source\repos\homework\homework\bin\Debug\Bankomat.dll
+c:\users\lenovo\source\repos\homework\homework\bin\Debug\Bankomat.pdb
+c:\users\lenovo\source\repos\homework\homework\obj\Debug\homework.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\homework\homework\obj\Debug\homework.csproj.CopyComplete
+c:\users\lenovo\source\repos\homework\homework\obj\Debug\homework.exe
+c:\users\lenovo\source\repos\homework\homework\obj\Debug\homework.pdb
