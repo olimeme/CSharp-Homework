@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\bin\Debug\TryCatchHM.exe.config
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\bin\Debug\TryCatchHM.exe
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\bin\Debug\TryCatchHM.pdb
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\obj\Debug\TryCatchHM.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\obj\Debug\TryCatchHM.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\obj\Debug\TryCatchHM.exe
+c:\users\lenovo\source\repos\TryCatchHM\TryCatchHM\obj\Debug\TryCatchHM.pdb
