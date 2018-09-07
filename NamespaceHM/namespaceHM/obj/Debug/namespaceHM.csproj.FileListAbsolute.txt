@@ -1,0 +1,10 @@
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\bin\Debug\namespaceHM.exe.config
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\bin\Debug\namespaceHM.exe
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\bin\Debug\namespaceHM.pdb
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\bin\Debug\ClassLibrary1.dll
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\bin\Debug\ClassLibrary1.pdb
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\obj\Debug\namespaceHM.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\obj\Debug\namespaceHM.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\obj\Debug\namespaceHM.csproj.CopyComplete
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\obj\Debug\namespaceHM.exe
+c:\users\lenovo\source\repos\namespaceHM\namespaceHM\obj\Debug\namespaceHM.pdb
