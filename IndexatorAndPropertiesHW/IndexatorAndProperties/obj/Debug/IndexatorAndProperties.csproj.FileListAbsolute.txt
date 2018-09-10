@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\bin\Debug\IndexatorAndProperties.exe.config
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\bin\Debug\IndexatorAndProperties.exe
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\bin\Debug\IndexatorAndProperties.pdb
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\obj\Debug\IndexatorAndProperties.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\obj\Debug\IndexatorAndProperties.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\obj\Debug\IndexatorAndProperties.exe
+c:\users\lenovo\source\repos\IndexatorAndProperties\IndexatorAndProperties\obj\Debug\IndexatorAndProperties.pdb
