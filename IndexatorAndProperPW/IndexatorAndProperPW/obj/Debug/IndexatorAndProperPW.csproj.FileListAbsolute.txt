@@ -1,0 +1,7 @@
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\bin\Debug\IndexatorAndProperPW.exe.config
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\bin\Debug\IndexatorAndProperPW.exe
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\bin\Debug\IndexatorAndProperPW.pdb
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\obj\Debug\IndexatorAndProperPW.csprojAssemblyReference.cache
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\obj\Debug\IndexatorAndProperPW.csproj.CoreCompileInputs.cache
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\obj\Debug\IndexatorAndProperPW.exe
+C:\Users\МомбековА\source\repos\IndexatorAndProperPW\IndexatorAndProperPW\obj\Debug\IndexatorAndProperPW.pdb
