@@ -1,0 +1,7 @@
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\bin\Debug\OperatorsOverloadPW.exe.config
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\bin\Debug\OperatorsOverloadPW.exe
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\bin\Debug\OperatorsOverloadPW.pdb
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\obj\Debug\OperatorsOverloadPW.csprojAssemblyReference.cache
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\obj\Debug\OperatorsOverloadPW.csproj.CoreCompileInputs.cache
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\obj\Debug\OperatorsOverloadPW.exe
+c:\users\момбекова\source\repos\OperatorsOverloadPW\OperatorsOverloadPW\obj\Debug\OperatorsOverloadPW.pdb
