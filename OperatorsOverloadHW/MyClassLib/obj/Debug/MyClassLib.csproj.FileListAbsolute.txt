@@ -1,0 +1,6 @@
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\bin\Debug\MyClassLib.dll
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\bin\Debug\MyClassLib.pdb
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\obj\Debug\MyClassLib.dll
+c:\users\момбекова\source\repos\OperatorsOverloadHW\MyClassLib\obj\Debug\MyClassLib.pdb

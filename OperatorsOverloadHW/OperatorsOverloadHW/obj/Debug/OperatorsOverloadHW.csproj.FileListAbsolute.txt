@@ -1,0 +1,10 @@
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\obj\Debug\OperatorsOverloadHW.csprojAssemblyReference.cache
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\obj\Debug\OperatorsOverloadHW.csproj.CoreCompileInputs.cache
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\bin\Debug\OperatorsOverloadHW.exe.config
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\bin\Debug\OperatorsOverloadHW.exe
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\bin\Debug\OperatorsOverloadHW.pdb
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\bin\Debug\MyClassLib.dll
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\bin\Debug\MyClassLib.pdb
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\obj\Debug\OperatorsOverloadHW.csproj.CopyComplete
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\obj\Debug\OperatorsOverloadHW.exe
+c:\users\момбекова\source\repos\OperatorsOverloadHW\OperatorsOverloadHW\obj\Debug\OperatorsOverloadHW.pdb
