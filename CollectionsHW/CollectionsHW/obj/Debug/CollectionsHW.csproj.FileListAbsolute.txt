@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\bin\Debug\CollectionsHW.exe.config
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\bin\Debug\CollectionsHW.exe
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\bin\Debug\CollectionsHW.pdb
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\obj\Debug\CollectionsHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\obj\Debug\CollectionsHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\obj\Debug\CollectionsHW.exe
+C:\Users\Lenovo\source\repos\CollectionsHW\CollectionsHW\obj\Debug\CollectionsHW.pdb
