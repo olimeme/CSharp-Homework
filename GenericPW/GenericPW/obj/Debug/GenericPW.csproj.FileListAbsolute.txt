@@ -1,0 +1,7 @@
+c:\users\момбекова\source\repos\GenericPW\GenericPW\bin\Debug\GenericPW.exe.config
+c:\users\момбекова\source\repos\GenericPW\GenericPW\bin\Debug\GenericPW.exe
+c:\users\момбекова\source\repos\GenericPW\GenericPW\bin\Debug\GenericPW.pdb
+c:\users\момбекова\source\repos\GenericPW\GenericPW\obj\Debug\GenericPW.csprojAssemblyReference.cache
+c:\users\момбекова\source\repos\GenericPW\GenericPW\obj\Debug\GenericPW.csproj.CoreCompileInputs.cache
+c:\users\момбекова\source\repos\GenericPW\GenericPW\obj\Debug\GenericPW.exe
+c:\users\момбекова\source\repos\GenericPW\GenericPW\obj\Debug\GenericPW.pdb
