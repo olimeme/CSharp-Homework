@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\bin\Debug\ReflectionHW.exe.config
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\bin\Debug\ReflectionHW.exe
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\bin\Debug\ReflectionHW.pdb
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\obj\Debug\ReflectionHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\obj\Debug\ReflectionHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\obj\Debug\ReflectionHW.exe
+C:\Users\Lenovo\source\repos\ReflectionHW\ReflectionHW\obj\Debug\ReflectionHW.pdb
