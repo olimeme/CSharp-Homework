@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.exe.config
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.exe
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.pdb
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.exe
+C:\Users\Lenovo\source\repos\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.pdb
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.exe.config
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.exe
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\bin\Debug\FileSystemHW.pdb
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.exe
+C:\Users\Lenovo\Desktop\FileSystemHW\FileSystemHW\FileSystemHW\obj\Debug\FileSystemHW.pdb
