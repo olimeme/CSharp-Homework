@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\bin\Debug\DelegateHW.exe.config
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\bin\Debug\DelegateHW.exe
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\bin\Debug\DelegateHW.pdb
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\obj\Debug\DelegateHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\obj\Debug\DelegateHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\obj\Debug\DelegateHW.exe
+C:\Users\Lenovo\source\repos\DelegateHW\DelegateHW\obj\Debug\DelegateHW.pdb
