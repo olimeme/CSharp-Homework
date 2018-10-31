@@ -1,0 +1,7 @@
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\bin\Debug\XMLJSonHW.exe.config
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\bin\Debug\XMLJSonHW.exe
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\bin\Debug\XMLJSonHW.pdb
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\obj\Debug\XMLJSonHW.csprojAssemblyReference.cache
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\obj\Debug\XMLJSonHW.csproj.CoreCompileInputs.cache
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\obj\Debug\XMLJSonHW.exe
+c:\users\момбекова\source\repos\XMLJSonHW\XMLJSonHW\obj\Debug\XMLJSonHW.pdb
