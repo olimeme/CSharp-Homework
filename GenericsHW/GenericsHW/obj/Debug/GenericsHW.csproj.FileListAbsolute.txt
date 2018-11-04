@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\bin\Debug\GenericsHW.exe.config
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\bin\Debug\GenericsHW.exe
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\bin\Debug\GenericsHW.pdb
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\obj\Debug\GenericsHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\obj\Debug\GenericsHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\obj\Debug\GenericsHW.exe
+C:\Users\Lenovo\source\repos\GenericsHW\GenericsHW\obj\Debug\GenericsHW.pdb
