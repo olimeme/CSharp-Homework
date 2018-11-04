@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\bin\Debug\SerializationHW.exe.config
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\bin\Debug\SerializationHW.exe
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\bin\Debug\SerializationHW.pdb
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\obj\Debug\SerializationHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\obj\Debug\SerializationHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\obj\Debug\SerializationHW.exe
+C:\Users\Lenovo\source\repos\SerializationHW\SerializationHW\obj\Debug\SerializationHW.pdb
